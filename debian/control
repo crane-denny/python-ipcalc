@@ -1,0 +1,18 @@
+Source: python-ipcalc
+Section: python
+Priority: optional
+Maintainer: MEZGANI Ali <mezgani@linuxmail.org>
+Build-Depends: debhelper (>= 7), python-support, python-dev 
+Standards-Version: 3.8.2 
+Homepage: http://dev.tehmaze.com/projects/ipcalc
+XB-Python-Version: ${python:Versions}
+
+Package: python-ipcalc
+Architecture: all
+Depends: python, ${python:Depends}, ${misc:Depends}
+Provides: ${python:Provides}
+Description: perform IP subnet calculations
+ returns the network address, netmask, network address in hexadecimal
+ and CIDR notation, min/max IP addresses, broadcast address and
+ the number of subnets.
+ There is support for both IPv4 and IPv6.
