@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-
-from distutils.core import setup
-
-setup(name='ipcalc',
-      version='1.1.3',
-      description='IP subnet calculator',
-      long_description='''
 About
 =====
 
@@ -15,7 +7,7 @@ both IPv4 and IPv6 CIDR notation.
 Example Usage
 =============
 
-::
+```python
 
     >>> import ipcalc
     >>> for x in ipcalc.Network('172.16.42.0/30'):
@@ -32,19 +24,11 @@ Example Usage
     True
     >>> long(IP('fe80::213:ceff:fee8:c937'))
     338288524927261089654168587652869703991L
+```
 
 Bugs/Features
 =============
 
 You can issue a ticket in GitHub: https://github.com/tehmaze/ipcalc/issues
 
-Documentation
-=============
-
-Documentation is available from http://ipcalc.rtfd.org/
-''',
-      author='Wijnand Modderman-Lenstra',
-      author_email='maze@pyth0n.org',
-      url='https://github.com/tehmaze/ipcalc/',
-      py_modules=['ipcalc'],
-      )
+[![Build Status](https://travis-ci.org/tehmaze/ipcalc.svg?branch=master)](https://travis-ci.org/tehmaze/ipcalc)
