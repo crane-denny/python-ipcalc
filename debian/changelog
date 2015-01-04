@@ -1,3 +1,10 @@
+python-ipcalc (1.1.3-1) UNRELEASED; urgency=medium
+
+  * Adopting package python-ipcalc
+  * upgrade to new upstream version 
+
+ -- Florian Pelgrim <florian.pelgrim@craneworks.de>  Sun, 04 Jan 2015 07:28:35 -0600
+
 python-ipcalc (0.3-1) unstable; urgency=low
 
   * Initial release (Closes: #533437) 
