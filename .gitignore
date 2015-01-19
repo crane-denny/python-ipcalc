@@ -1,3 +1,6 @@
 debian/files
 debian/python-ipcalc/*
-debian/python-ipcalc.*
+debian/python-ipcalc.debhelper.log
+debian/python-ipcalc.postinst.debhelper
+debian/python-ipcalc.prerm.debhelper
+debian/python-ipcalc.substvars
