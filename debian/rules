@@ -1,5 +1,4 @@
 #!/usr/bin/make -f
 
-export PYBUILD_NAME=ipcalc
 %:
-	dh $@ --with python2 --buildsystem=pybuild
+	dh $@ --with python2
