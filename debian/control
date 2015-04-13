@@ -2,7 +2,7 @@ Source: python-ipcalc
 Section: python
 Priority: optional
 Maintainer: Florian Pelgrim <florian.pelgrim@craneworks.de>
-Build-Depends: python, debhelper (>= 9~)
+Build-Depends: python (>= 2.6), debhelper (>= 9~)
 Standards-Version: 3.9.6
 Homepage: https://pypi.python.org/pypi/ipcalc
 VCS-Browser: https://github.com/craneworks/python-pyroute2
