@@ -1,5 +1,10 @@
-python-ipcalc (1.1.3-1) experimental; urgency=medium
+python-ipcalc (1.99.0-1) UNRELEASED; urgency=medium
 
+  * Bumping to version 1.99.0
+
+ -- Florian Pelgrim <florian.pelgrim@craneworks.de>  Sun, 27 Mar 2016 22:04:19 +0200
+
+python-ipcalc (1.1.3-1) experimental; urgency=medium
   * Adopting package python-ipcalc, thanks to Ali Mezgani for
     maintaining the package so far.
   * New upstream release, (Closes: #774433)
