@@ -4,7 +4,8 @@ python-ipcalc (1.99.0-1) UNRELEASED; urgency=medium
   * Update standards-version to 3.9.7, no changes required
   * Fixing debian/watch, using pypi.debian.net
   * Ignoring .pybuild
-  * 
+  * Fixing Network.__iter__() returns addresses from outside of specified
+    network (Closes: #548324)
 
  -- Florian Pelgrim <florian.pelgrim@craneworks.de>  Sun, 27 Mar 2016 22:21:05 +0200
 
