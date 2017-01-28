@@ -1,4 +1,4 @@
-python-ipcalc (1.99.0-2) UNRELEASED; urgency=medium
+python-ipcalc (1.99.0-2) unstable; urgency=medium
 
   * Bumping standards-version to 3.9.8
   * Update Build-Depends and Build-Depends-Indep
