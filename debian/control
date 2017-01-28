@@ -2,7 +2,7 @@ Source: python-ipcalc
 Section: python
 Priority: optional
 Maintainer: Florian Pelgrim <florian.pelgrim@craneworks.de>
-Build-Depends: debhelper (>= 9~)
+Build-Depends: debhelper (>= 10~)
 Build-Depends-Indep:
  python-all,
  dh-python
