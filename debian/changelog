@@ -4,6 +4,7 @@ python-ipcalc (1.99.0-2) unstable; urgency=medium
   * Update Build-Depends and Build-Depends-Indep
   * Bumping debhelper to version 10
   * Update copyright information
+  * Adding 'Provides' and 'Recommends' to package
 
  -- Florian Pelgrim <florian.pelgrim@craneworks.de>  Sat, 28 Jan 2017 19:28:34 +0100
 

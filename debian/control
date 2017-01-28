@@ -14,6 +14,8 @@ VCS-Git: https://github.com/craneworks/python-pyroute2.git
 Package: python-ipcalc
 Architecture: all
 Depends: ${python:Depends}, ${misc:Depends}
+Provides: ${python:Provides}
+Recommends: ${python:Recommends}
 Description: Python IP subnet calculator
  This module allows you to perform IP subnet calculations, there
  is support for both IPv4 and IPv6 CIDR notation.
