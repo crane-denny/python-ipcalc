@@ -4,11 +4,11 @@ Upstream-Contact: Wijnand Modderman <wijnand@freecode.nl>
 Source: https://pypi.python.org/pypi/ipcalc
 
 Files: *
-Copyright: 2008-2014 Wijnand Modderman
+Copyright: 2008-2015 Wijnand Modderman
 License: BSD-2-clause
 
 Files: debian/*
-Copyright: 2015 Florian Pelgrim
+Copyright: 2015-2017 Florian Pelgrim
 License: BSD-2-clause
 
 License: BSD-2-clause
