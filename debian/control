@@ -8,8 +8,8 @@ Build-Depends-Indep:
  dh-python
 Standards-Version: 3.9.8
 Homepage: https://pypi.python.org/pypi/ipcalc
-VCS-Browser: https://github.com/craneworks/python-pyroute2
-VCS-Git: https://github.com/craneworks/python-pyroute2.git
+VCS-Browser: https://github.com/craneworks/python-ipcalc
+VCS-Git: https://github.com/craneworks/python-ipcalc.git
 
 Package: python-ipcalc
 Architecture: all

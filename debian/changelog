@@ -1,3 +1,9 @@
+python-ipcalc (1.99.0-3) unstable; urgency=medium
+
+  * Fixing wrong VCS URL
+
+ -- Florian Pelgrim <florian.pelgrim@craneworks.de>  Mon, 30 Jan 2017 10:14:22 +0100
+
 python-ipcalc (1.99.0-2) unstable; urgency=medium
 
   * Bumping standards-version to 3.9.8
