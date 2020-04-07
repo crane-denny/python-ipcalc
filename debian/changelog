@@ -5,6 +5,7 @@ python-ipcalc (1.99.0-4) UNRELEASED; urgency=medium
   * debian/copyright: use spaces rather than tabs to start continuation
     lines.
   * Bump debhelper from old 10 to 12.
+  * Set debhelper-compat version in Build-Depends.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 07 Apr 2020 19:17:39 +0000
 
